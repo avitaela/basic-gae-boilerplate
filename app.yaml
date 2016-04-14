@@ -1,4 +1,4 @@
-application: gae-smartninja-boilerplate  # change this name/id
+application: gae-mojapp-cardanshaft  # change this name/id
 version: 1
 runtime: python27
 api_version: 1
